@@ -1,0 +1,124 @@
+Name.Institution,Guardian.score.100,Satisfied.with.Teaching,Satisfied.with.course,Continuation ,Expenditure.per.student.FTE,Student.staff.ratio,Career.prospects,Value.added.score,Average.Entry.Tariff,Satisfied.with.Assessment,Country,Russell
+Aberdeen,64.4,78,89,94,5,22.7,77,5,178,71,Scotland,0
+Abertay Dundee,61,81,86,92,2,18,69,3,135,74,Scotland,0
+Aberystwyth,61.7,83,78,91,3,17,70,2,117,82,Wales,0
+Anglia Ruskin,54.6,87,88,73,7,21.4,64,4,93,83,England,0
+Aston,67.3,89,92,95,5,29.7,76,7,143,74,England,0
+Bangor,47.4,78,84,87,3,24,55,1,124,63,Wales,0
+Bath,84.2,85,94,99,9,17.5,77,8,187,74,England,1
+Bath Spa,52.1,83,82,91,4,27.4,71,2,111,74,England,0
+Bedfordshire,46.2,81,78,78,5,26.5,55,6,81,70,England,0
+Birkbeck,41.6,84,85,76,3,20.3,63,1,96,58,England,0
+Birmingham,69.2,78,79,94,9,19.2,88,7,162,56,England,1
+Birmingham City,52,84,87,87,5,28.9,62,5,121,70,England,0
+Bolton,52.5,77,92,82,4,11.9,61,2,95,70,England,0
+Bournemouth,63.3,79,82,90,4,19.2,72,9,124,68,England,0
+Bradford,62.6,81,83,84,6,17.1,67,7,128,68,England,0
+Brighton,57.2,80,80,90,3,22.6,63,7,113,70,England,0
+Bristol,59.6,67,66,91,5,17.9,68,5,176,55,England,1
+Brunel,50,72,80,95,7,29.3,67,3,132,67,England,0
+Buckingham,82.1,92,95,94,5,11.2,90,5,112,86,England,0
+Bucks New University,31.1,66,57,81,5,19.9,47,1,113,59,England,0
+Canterbury Christ Church,48.1,80,80,83,4,22,50,5,102,73,England,0
+Cardiff,66.3,78,86,95,6,16.4,67,6,154,70,Wales,1
+Cardiff Met,46.8,78,82,87,4,19.5,61,1,117,65,Wales,0
+Central Lancashire,54.9,79,76,86,4,21,68,4,128,68,England,0
+Chester,55.6,78,80,88,4,18.5,67,4,107,69,England,0
+Chichester,58,77,78,91,3,15.8,65,4,129,64,England,0
+City,60.2,73,75,85,10,22.6,70,9,163,54,England,0
+Coventry,73.8,86,86,92,5,17.7,81,7,125,75,England,0
+Cumbria,62.3,91,91,89,9,10.7,68,1,95,75,England,0
+De Montfort,64.2,80,85,93,3,31.2,83,8,109,73,England,0
+Derby,77.8,89,89,89,6,14.6,70,8,115,82,England,0
+Dundee,74.1,88,88,83,7,19.6,81,9,166,76,Scotland,0
+Durham,78.1,75,83,99,7,23.4,92,8,177,72,England,1
+East London,58.7,80,83,88,4,19.9,54,7,102,72,England,0
+Edge Hill,66.5,83,87,89,4,17.9,64,8,127,78,England,0
+Edinburgh,67.3,80,83,97,10,19,68,7,166,56,Scotland,1
+Edinburgh Napier,59.8,81,78,92,4,25.8,69,8,155,70,Scotland,0
+Essex,57.2,77,81,93,6,17.1,73,3,112,63,England,0
+Exeter,73.2,81,88,95,4,21.2,86,8,174,64,England,1
+Falmouth,75.8,85,74,93,7,15.8,86,8,106,72,England,0
+Glasgow,63.9,76,80,91,7,23,81,8,192,53,Scotland,1
+Glasgow Caledonian,54.3,79,77,90,4,23.7,53,7,178,62,Scotland,0
+Gloucestershire,65.8,83,87,94,5,22.5,70,9,121,70,England,0
+Glyndyr,42.6,77,86,78,2,22,69,1,94,71,Wales,0
+Goldsmiths,80.3,83,89,94,4,15.2,90,5,131,83,England,0
+Greenwich,54.8,74,75,86,3,21,51,8,130,69,England,0
+Harper Adams,58.7,73,80,90,7,16.1,59,1,126,73,England,0
+Heriot-Watt,65.7,84,87,90,10,26.3,70,8,156,69,Scotland,0
+Hertfordshire,59.2,77,80,91,4,19.3,68,5,125,64,England,0
+Highlands & Islands,50.3,77,64,85,7,26.8,67,6,129,58,Scotland,0
+Huddersfield,63.6,75,79,91,4,19.8,72,7,132,72,England,0
+Hull,65,80,85,91,6,21.7,78,6,122,75,England,0
+Keele,59,83,86,93,4,19.9,71,2,118,70,England,0
+Kent,67,81,86,91,4,24.8,89,7,142,69,England,0
+King's College London,71.6,78,78,90,5,20.1,88,8,186,65,England,1
+Lancaster,79.2,86,91,90,8,17.7,91,6,152,77,England,0
+Leeds,76.1,83,82,96,9,20.4,89,8,167,70,England,1
+Leeds Beckett,44,77,76,85,3,25.9,62,4,109,65,England,0
+Leeds Trinity,61.5,93,93,88,3,31.7,67,10,92,74,England,0
+Leicester,67.4,81,85,95,7,17.1,74,4,129,69,England,0
+Lincoln,62.1,80,85,95,4,21.6,83,2,125,69,England,0
+Liverpool,63.8,81,82,94,5,23.4,74,5,150,74,England,1
+Liverpool Hope,62.9,89,89,85,3,16.4,61,3,107,79,England,0
+Liverpool John Moores,65.6,81,84,88,3,21.9,70,6,142,79,England,0
+London Met,49.6,81,73,80,4,22.2,64,4,94,71,England,0
+London School of Economics,73.7,79,74,93,9,14.7,79,5,192,65,England,1
+London South Bank,58,83,88,77,4,18,74,6,101,64,England,0
+Loughborough,83.3,90,94,98,7,19,90,8,164,70,England,0
+Manchester,74.2,78,81,94,10,14.7,80,5,163,66,England,1
+Manchester Met,56.9,74,74,92,4,20.6,71,5,128,63,England,0
+Middlesex,49.4,76,78,81,5,18.8,52,3,115,69,England,0
+Newcastle,66.3,70,78,96,6,20.4,86,6,157,66,England,1
+Newman,40.9,55,73,78,4,11,57,1,104,35,England,0
+Northampton,52.3,75,72,89,4,21.1,56,6,102,66,England,0
+Northumbria,60.3,81,86,91,4,21.5,72,5,141,65,England,0
+Nottingham,70.1,78,83,97,7,16.5,82,6,157,60,England,1
+Nottingham Trent,73.8,84,87,91,4,17.7,87,6,140,78,England,0
+Oxford,100,94,92,98,10,9.6,94,7,232,82,England,1
+Oxford Brookes,69.1,78,83,97,4,19.7,83,8,129,64,England,0
+Plymouth,61,77,83,93,6,19.5,64,8,112,70,England,0
+Portsmouth,69.9,82,88,91,6,16.1,83,6,118,69,England,0
+Queen Margaret,55.3,79,70,87,3,21.4,68,6,142,63,Scotland,0
+Queen Mary,60.7,77,80,90,5,17.6,68,5,146,63,England,1
+"Queen's, Belfast",64.6,78,84,96,4,20.5,66,6,148,75,NI,1
+Reading,67.9,75,75,95,6,18.9,86,8,144,65,England,0
+Robert Gordon,62.2,86,87,93,3,24.9,68,5,166,71,Scotland,0
+Roehampton,48.5,69,74,82,9,15.2,58,3,102,60,England,0
+Royal Agricultural University,57.5,77,82,98,6,20.9,65,6,102,66,England,0
+Royal Holloway,59.7,78,84,91,6,17.7,69,4,148,55,England,0
+Salford,49.1,73,76,86,3,23,64,5,117,62,England,0
+Sheffield,68.2,80,82,94,7,16.6,88,4,143,67,England,1
+Sheffield Hallam,62.1,81,81,93,5,18.7,72,8,117,66,England,0
+SOAS,77,81,83,93,10,11.7,80,6,145,71,England,0
+Solent,55.6,75,75,88,3,25,74,7,107,63,England,0
+South Wales,46,70,60,86,3,17.7,58,3,132,63,Wales,0
+Southampton,66.5,70,71,91,5,15.5,81,8,151,69,England,1
+SRUC,70.9,83,90,90,2,13.4,78,8,139,75,Scotland,0
+St Andrews,91,94,90,98,4,16.1,92,9,212,82,Scotland,0
+"St Mary's, Twickenham",66.3,85,87,85,3,20.8,78,7,111,78,England,0
+Staffordshire,60.6,82,78,80,7,13.9,68,3,112,75,England,0
+Stirling,70.3,87,87,90,3,16.8,75,8,163,68,Scotland,0
+Strathclyde,73.7,90,92,94,6,25,71,8,207,72,Scotland,0
+Suffolk,52.4,70,73,78,7,16.8,58,6,107,74,England,0
+Sunderland,61.6,85,86,92,9,20.2,63,2,115,80,England,0
+Surrey,68.2,73,80,92,5,19.5,73,8,165,68,England,0
+Sussex,68.6,79,82,97,9,17.5,86,2,150,65,England,0
+Swansea,66.4,81,89,92,5,24.2,77,8,136,72,Wales,0
+Teesside,56.7,68,73,89,6,17.9,73,4,112,76,England,0
+Trinity Saint David,62.2,91,87,85,4,18.6,53,4,105,89,Wales,0
+UCL,72.9,76,72,94,10,19.1,87,8,191,66,England,1
+UEA,74.3,87,96,94,3,18.3,76,7,149,74,England,0
+Ulster,53.2,83,86,82,3,27.9,61,7,124,78,NI,0
+University of the Arts London,59.1,75,73,92,10,18.5,62,4,121,72,England,0
+UWE Bristol,63.3,80,85,92,4,20.9,75,7,118,65,England,0
+Warwick,84.6,82,86,98,10,16.9,90,8,188,64,England,1
+West London,50.9,85,79,75,4,23.9,68,4,111,70,England,0
+West of Scotland,43.9,76,79,80,4,36.3,55,8,142,74,Scotland,0
+Westminster,55.7,69,72,91,4,22.7,67,7,130,58,England,0
+Winchester,62.9,83,81,90,3,18.4,66,9,105,73,England,0
+Wolverhampton,39.9,79,81,81,4,24.5,51,1,94,67,England,0
+Worcester,54.3,73,77,89,2,18.9,60,7,113,61,England,0
+York,75.9,85,92,92,4,16.3,82,4,148,80,England,1
+York St John,51,82,82,90,3,19.5,51,2,101,76,England,0
